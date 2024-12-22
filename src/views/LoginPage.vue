@@ -22,7 +22,6 @@ import { UserOutlined ,LockOutlined } from '@ant-design/icons-vue';
           </template>
         </a-input-password>
       </a-space>
-
     </a-card>
   </a-flex>
 </template>
